@@ -1,2 +1,2 @@
-# avi-o
+# aviao
 um sistema de controle de passagens aéreas 
